@@ -5,4 +5,4 @@ SELECT name, age FROM pet;
 SELECT name, age FROM pet WHERE dead = 0;
 -- only for rows where dead = 0
 SELECT * FROM person WHERE first_name != "Zed";
--- Only rows that don't equal Zed
+-- Only rows that don't equal Zed.
